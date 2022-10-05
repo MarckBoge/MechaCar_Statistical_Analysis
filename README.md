@@ -23,9 +23,8 @@ Statistics and R
     
     
     
-   <p align="center"> 
+  
    <img width="511" alt="Linear Regression Summary" src="https://user-images.githubusercontent.com/90155651/193965245-de32a908-cd91-42f0-8105-bb72785d7f33.png">
-   </p>
-
+  
 
 
