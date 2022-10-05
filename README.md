@@ -5,6 +5,7 @@ Statistics and R
 
 ## Overview
 
+The purpose of this project is to identify which variables can predict the MPG of a car prototype MechaCar, for the fictional company AutosRUs. Summary statistics are generated and t-tests are performed for individual manufacturing lots. Finally, a study is designed to compare MechaCar to the competition. 
 
 
 
@@ -40,6 +41,12 @@ Below is the summary statistics of all of the manufacturing lots.
 Below is the Lot Summary data of all of the manufacturing lots.
 
 <img width="492" alt="Lot Summary" src="https://user-images.githubusercontent.com/90155651/193976575-e7c74052-d3d4-400d-b5b2-54be0755220a.png">
+
+
+ * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per 
+   square inch. I found that the total variance in the summary dataframe above shows a variance of 62psi, which is in acceptable range. Further analysis
+   of individual manufacture lots have shown that Lot 3 does not meet the current design requirements. Manufacturing Lot 3 does not meet the 
+   design specifications because the variance is far above 100.
 
   
 
