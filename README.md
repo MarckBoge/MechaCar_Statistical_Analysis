@@ -28,8 +28,19 @@ Statistics and R
     
     
 
-  
-   
+
+## Summary Statistics on Suspension Coils
+
+Below is the summary statistics of all of the manufacturing lots.
+
+
+<img width="336" alt="Summary Statistics" src="https://user-images.githubusercontent.com/90155651/193976239-6fe75bfb-7ca7-4a10-b522-e9a34840a6b5.png">
+
+
+Below is the Lot Summary data of all of the manufacturing lots.
+
+<img width="492" alt="Lot Summary" src="https://user-images.githubusercontent.com/90155651/193976575-e7c74052-d3d4-400d-b5b2-54be0755220a.png">
+
   
 
 
