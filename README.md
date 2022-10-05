@@ -10,6 +10,11 @@ Statistics and R
 
 ## Linear Regression to Predict MPG
 
+
+
+<img width="511" alt="Linear Regression Summary" src="https://user-images.githubusercontent.com/90155651/193965245-de32a908-cd91-42f0-8105-bb72785d7f33.png">
+
+
   * The vehicle length and ground clearance variables are the most statistically likely to provide a non random amount of variance to the mpg 
     values in the dataset. The remaining variables, the vehicles weight, spoiler angle, and AWD has a P-Value that shows a random amount of 
     variance with the dataset.
@@ -24,7 +29,7 @@ Statistics and R
     
     
   
-   <img width="511" alt="Linear Regression Summary" src="https://user-images.githubusercontent.com/90155651/193965245-de32a908-cd91-42f0-8105-bb72785d7f33.png">
+   
   
 
 
