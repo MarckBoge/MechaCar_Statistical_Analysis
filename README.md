@@ -51,6 +51,12 @@ Below is the Lot Summary data of all of the manufacturing lots.
 
 ## T-Tests on Suspension Coils
 
+
+ * Now we have come to the portion of our analylsis to utilize the t-test, here we determine if all manufacturing lots and each lot individually 
+   are statistically different from the population mean of 1,500 pounds per square inch. We found that only Manufacturing Lot 3 is statistically 
+   different from the population.
+
+
 T-Test across All Manufacturing Lots
 
 
@@ -85,17 +91,15 @@ Manufacturing Lot 2 T-Test
 Manufacturing Lot 3 T-Test
 
 
-  * Manufacturing Lot 3 has a p-value = 0.04168, therefore Lot 3 rejects the null hypothesis. This means Manufacturing Lot 3 is statistically
-    different from from the population mean of 1,500 pounds per square inch.
-
-
+  
 <img width="559" alt="Lot3" src="https://user-images.githubusercontent.com/90155651/194202506-a13a2186-4161-42fe-bf15-4bdc81e83935.png">
 
 
+* Manufacturing Lot 3 has a p-value = 0.04168, therefore Lot 3 rejects the null hypothesis. This means Manufacturing Lot 3 is statistically
+    different from from the population mean of 1,500 pounds per square inch.
 
- * Now we have come to the portion of our analylsis to utilize the t-test, here we determine if all manufacturing lots and each lot individually 
-   are statistically different from the population mean of 1,500 pounds per square inch. We found that only Manufacturing Lot 3 is statistically 
-   different from the population.
+
+ 
   
 
 
