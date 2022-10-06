@@ -99,6 +99,27 @@ Manufacturing Lot 3 T-Test
     different from from the population mean of 1,500 pounds per square inch.
 
 
+
+## Study Design: MechaCar vs Competition
+
+
+To quantify how MechaCar would perform against the competition, one would conduct a statistical analysis of metrics that would show case vehicle performance against performance of vehicles from other manufacturers.
+
+  * What metric or metrics are you going to test?
+
+    The metrics to test should be city or highway fuel, over all handling and horsepower. As well as safety rating.
+    
+  * What is the null hypothesis or alternative hypothesis?
+  
+    The null hypothesis and alternative hypothesis for this proposed study are as follows:
+      Ho: MechaCar would have high performance rating and would out shine competitors.
+      Ha: MechaCar would not have high performance rating and would not out shine competitors.
+
+
+  * What statistical test would you use to test the hypothesis? And why?
+  * What data is needed to run the statistical test?
+
+
  
   
 
