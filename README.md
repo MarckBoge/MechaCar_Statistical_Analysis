@@ -58,7 +58,9 @@ T-Test across All Manufacturing Lots
 <img width="442" alt="T_Test All Lots" src="https://user-images.githubusercontent.com/90155651/194202306-a2e4ea95-3e14-44ee-83c0-9d52d20fe245.png">
 
 
-
+ * WIth the first T-Test shown above, we see that the mean across all manufacturing lots are not statistically different from the population 
+   mean of 1,500 poundsper square inch.
+   
 
 Manufacturing Lot 1 T-Test
 
