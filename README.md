@@ -59,7 +59,7 @@ T-Test across All Manufacturing Lots
 
 
  * WIth the first T-Test shown above, we see that the mean across all manufacturing lots are not statistically different from the population 
-   mean of 1,500 poundsper square inch.
+   mean of 1,500 pounds per square inch.
    
 
 Manufacturing Lot 1 T-Test
@@ -68,7 +68,9 @@ Manufacturing Lot 1 T-Test
 <img width="560" alt="Lot1" src="https://user-images.githubusercontent.com/90155651/194202385-70c178bf-8676-4dd0-8703-5b13e4d9a977.png">
 
 
-
+ * Manufacturing Lot 1 has a p-value = 1, which means that the mean of Lot 1 mirrors the population mean of 1,500 PSI. Therefore Lot 1 fails to
+   reject the null hypothesis.
+   
 
 Manufacturing Lot 2 T-Test
 
