@@ -112,8 +112,10 @@ To quantify how MechaCar would perform against the competition, one would conduc
   * What is the null hypothesis or alternative hypothesis?
   
     The null hypothesis and alternative hypothesis for this proposed study are as follows:
-      Ho: MechaCar would have high performance rating and would out shine competitors.
-      Ha: MechaCar would not have high performance rating and would not out shine competitors.
+    
+      null hypothesis: MechaCar would have high performance rating and would out shine competitors.
+      
+      alternative hypothesis: MechaCar would not have high performance rating and would not out shine competitors.
 
 
   * What statistical test would you use to test the hypothesis? And why?
