@@ -48,6 +48,47 @@ Below is the Lot Summary data of all of the manufacturing lots.
    of individual manufacture lots have shown that Lot 3 does not meet the current design requirements. Manufacturing Lot 3 does not meet the 
    design specifications because the variance is far above 100.
 
+
+## T-Tests on Suspension Coils
+
+T-Test across All Manufacturing Lots
+
+
+
+<img width="442" alt="T_Test All Lots" src="https://user-images.githubusercontent.com/90155651/194202306-a2e4ea95-3e14-44ee-83c0-9d52d20fe245.png">
+
+
+
+
+Manufacturing Lot 1 T-Test
+
+
+<img width="560" alt="Lot1" src="https://user-images.githubusercontent.com/90155651/194202385-70c178bf-8676-4dd0-8703-5b13e4d9a977.png">
+
+
+
+
+Manufacturing Lot 2 T-Test
+
+
+
+<img width="551" alt="Lot2" src="https://user-images.githubusercontent.com/90155651/194202472-7aef9d71-da04-46f1-8c94-4f5ab7162e62.png">
+
+
+
+
+Manufacturing Lot 3 T-Test
+
+
+
+
+<img width="559" alt="Lot3" src="https://user-images.githubusercontent.com/90155651/194202506-a13a2186-4161-42fe-bf15-4bdc81e83935.png">
+
+
+
+ * Now we have come to the portion of our analylsis to utilize the t-test, here we determine if all manufacturing lots and each lot individually 
+   are statistically different from the population mean of 1,500 pounds per square inch. We found that only Manufacturing Lot 3 is statistically 
+   different from the population.
   
 
 
