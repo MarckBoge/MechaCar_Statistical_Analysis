@@ -78,12 +78,15 @@ Manufacturing Lot 2 T-Test
 
 <img width="551" alt="Lot2" src="https://user-images.githubusercontent.com/90155651/194202472-7aef9d71-da04-46f1-8c94-4f5ab7162e62.png">
 
-
+ * Manufacturing Lot 2 p-value = 0.6072, which means Lot 2 fail to reject the null hypothesis. There is no statistical difference
+   between Manufacturing Lot 2 and the population mean of 1,500.
 
 
 Manufacturing Lot 3 T-Test
 
 
+  * Manufacturing Lot 3 has a p-value = 0.04168, therefore Lot 3 rejects the null hypothesis. This means Manufacturing Lot 3 is statistically
+    different from from the population mean of 1,500 pounds per square inch.
 
 
 <img width="559" alt="Lot3" src="https://user-images.githubusercontent.com/90155651/194202506-a13a2186-4161-42fe-bf15-4bdc81e83935.png">
