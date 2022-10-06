@@ -113,13 +113,23 @@ To quantify how MechaCar would perform against the competition, one would conduc
   
     The null hypothesis and alternative hypothesis for this proposed study are as follows:
     
-      null hypothesis: MechaCar would have high performance rating and would out shine competitors.
+      Null Hypothesis: MechaCar would have high performance rating and would out shine competitors.
       
-      alternative hypothesis: MechaCar would not have high performance rating and would not out shine competitors.
+      Alternative Hypothesis: MechaCar would not have high performance rating and would not out shine competitors.
 
 
   * What statistical test would you use to test the hypothesis? And why?
+
+    I would use an ANOVA test to complete this analysis of the metrics.
+    
+    
   * What data is needed to run the statistical test?
+
+    I would need city or highway fuel, over all handling and horsepower data from MechaCar and its competition. From the same amount
+    of vehicles in the same vehicle classes.
+    
+    
+    
 
 
  
